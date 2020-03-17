@@ -1,0 +1,15 @@
+certifi==2019.9.11
+contextlib2==0.5.5
+Django==2.2.6
+django-dotenv==1.4.2
+entrypoints==0.3
+flake8==3.7.9
+mccabe==0.6.1
+mysqlclient==1.4.4
+pycodestyle==2.5.0
+pyflakes==2.1.1
+pytz==2019.3
+schema==0.7.1
+sentry-sdk==0.13.1
+sqlparse==0.3.0
+urllib3==1.25.6

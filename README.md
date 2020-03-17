@@ -1,2 +1,5 @@
-# django-totp
-django多因子验证插件
+# django-frame
+
+## 时间获取
+
+https://www.jianshu.com/p/c1dee7d3cbb9
